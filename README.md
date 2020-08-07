@@ -18,10 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="ANDROID STUDIO" width="26px" src="<img src="https://img.icons8.com/fluent/48/000000/android-os.png/" />" />][webdevplaylist]
-[<img align="left" alt="Visual Studio Code" width="26px" src="<img src="https://img.icons8.com/fluent/48/000000/android-os.png"
-][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
@@ -40,29 +37,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
-<!-- YOUTUBE:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <img align="left" alt="lionuncle's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lionuncle&show_icons=true&hide_border=true" />
 
