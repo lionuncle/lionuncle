@@ -1,6 +1,6 @@
-### Hola!, I'm MUHAMMAD AQIB 👋
+# Hola!, I'm MUHAMMAD AQIB 👋
 
-# I'm an Android Developer, Open Source Contributor, Freelancer and Computer Scientist!
+### I'm an Android Developer, Open Source Contributor, Freelancer and Computer Scientist!
 - 🔭 I’m currently working Upwork as a freelancer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to participate in opensource community
