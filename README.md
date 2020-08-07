@@ -1,13 +1,13 @@
-### Hi there, I'm MUHAMMAD AQIB 👋
+### Hola!, I'm MUHAMMAD AQIB 👋
 
-## I'm an Android Developer, Open Source Contributor, Freelancer and Computer Scientist!
+# I'm an Android Developer, Open Source Contributor, Freelancer and Computer Scientist!
 - 🔭 I’m currently working Upwork as a freelancer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to participate in opensource community
 - 🥅 2020 Goals: markdown my name on internet
 - ⚡ Fun fact: I love swimming and traveling to new places
 
-### Connect with me:
+### Wanna Connect?:
 
 [<img align="left" alt="aqib.engineer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AQIB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### I'm pro 😎 at:
 <img align="left" alt="ANDROID" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
 <img align="left" alt="KOTLIN" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
