@@ -1,9 +1,9 @@
 # Hola!, I'm MUHAMMAD AQIB 👋
 
 ### I'm an Android Developer, Open Source Contributor, Freelancer and Computer Scientist!
-- 🔭 I’m currently working Upwork as a freelancer
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to participate in opensource community
+- 🔭 I’m currently working on Upwork as a freelancer
+- 🌱 I’m learning everything 🤣
+- 👯 Looking forward to participate in opensource community
 - 🥅 2020 Goals: markdown my name on internet
 - ⚡ Fun fact: I love swimming and traveling to new places
 
