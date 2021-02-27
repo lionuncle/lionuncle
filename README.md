@@ -12,6 +12,7 @@ I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scient
 - 🥅 2021 Goals: markdown my name on internet
 - ⚡ Fun fact: I love swimming and traveling to new places
 - 🎢 Profile Visitors Count:  
+<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=lionuncle.lionuncle)
 
 <br />
@@ -52,16 +53,18 @@ I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scient
   <br/>
 </details>
 ### I'm pro 😎 at:
+
+
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
+<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 <img align="left" alt="ANDROID" width="26px" src="https://img.icons8.com/fluent/48/000000/android-os.png" />
 <img align="left" alt="KOTLIN" width="26px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
 <img align="left" alt="JAVA" width="26px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/48/000000/firebase.png" />
-<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="c++" width="26px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 <img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -69,7 +72,6 @@ I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scient
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
 <br />
-///////////////////////////////////////////////////////////////////////////////
 
 [website]: https://aqib.engineer
 [twitter]: https://twitter.com/Lionuncles
