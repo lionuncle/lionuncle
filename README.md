@@ -1,5 +1,5 @@
 # <h2  align="center">Hi There, I'm AQIB - aka lionuncle <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
-<a href="#"><img width="100%" height="10%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="50px"/></a>
+<a href="#"><img width="100%" height="8%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="50px"/></a>
 
 ## 📖 About me:
 I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scientist!
