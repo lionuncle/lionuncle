@@ -2,14 +2,13 @@
 <a href="#"><img width="100%" height="8%" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" height="50px"/></a>
 
 ## 📖 About me:
-I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scientist!
+I'm a Flutter Developer, blockchain application developer, Open Source Contributor, Freelancer and Computer Scientist!
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ca68b90f30ca94612b046bc7ae3a205bcdc7c25049f17baabe8adea72a236f0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966" width="400" height="400" />
 
-- 🔭 I’m currently working in a startup as a Mobile App Developer.
+- 🔭 I’m currently working on Flutter and blockchain.
 - 🌱 I’m learning everything 🤣
 - 👯 Looking forward to participate in opensource community
-- 🥅 2021 Goals: markdown my name on internet
 - ⚡ Fun fact: I love swimming and traveling to new places
 
 <br />
@@ -17,10 +16,8 @@ I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scient
 ## 🎉 Connect with me
 
   
-[<img align="left" alt="aqib.engineer" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AQIB | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AQIB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AQIB | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 <br />
@@ -70,7 +67,5 @@ I'm a Flutter Developer, Open Source Contributor, Freelancer and Computer Scient
 <br />
 <br />
 
-[website]: https://aqib.engineer
 [twitter]: https://twitter.com/Lionuncles
-[instagram]: https://instagram.com/gotoaqib
 [linkedin]: https://www.linkedin.com/in/lionuncle/
