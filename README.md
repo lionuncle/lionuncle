@@ -13,12 +13,6 @@ I'm a Flutter Developer, blockchain application developer, Open Source Contribut
 
 <br />
 
-## 🎉 Connect with me
-
-  
-[<img align="left" alt="AQIB | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
 
 ## 🔥 My contribution streak
