@@ -4,7 +4,7 @@
 ## 📖 About me:
 I'm a Flutter Developer, blockchain application developer, Open Source Contributor, Freelancer and Computer Scientist!
 
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ca68b90f30ca94612b046bc7ae3a205bcdc7c25049f17baabe8adea72a236f0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966" width="400" height="400" />
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="400" height="400" />
 
 - 🔭 I’m currently working on Flutter and blockchain.
 - 🌱 I’m learning everything 🤣
