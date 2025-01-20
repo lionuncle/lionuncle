@@ -2,7 +2,8 @@
 <p align="center">
 <img  alt="GIF" src="./hero.gif" />
 </p>
-## 📖 About me:
+</br>
+📖 About me:
 I'm a Flutter Developer, blockchain application developer, Open Source Contributor, Freelancer and Computer Scientist!
 
 <img align="right" alt="GIF" src="[https://camo.githubusercontent.com/5ca68b90f30ca94612b046bc7ae3a205bcdc7c25049f17baabe8adea72a236f0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f70344e4c7733493455306964692f67697068792e676966](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8q7fkBMRRtcben2ley6mu11U3sm155cX9vw&s)" width="400" height="400" />
@@ -13,6 +14,7 @@ I'm a Flutter Developer, blockchain application developer, Open Source Contribut
 - ⚡ Fun fact: I love swimming and traveling to new places
 
 <br />
+<h3><b>UPWORK:</b></h3> https://www.upwork.com/freelancers/~011d7f9a84227b2829
 
 <br />
 
